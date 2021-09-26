@@ -6,7 +6,7 @@ There are two logins only provided as of now with hardcoding due to time limitat
 *****************************************************************************************************
 
 1. Admin
-=========
+*****************************************************************************************************
 
 username/Email: Admin@gmail.com
 password: BoondiLaddu1
@@ -16,7 +16,7 @@ For pending delivery orders, you can click on "Track Order" button to track the 
 There is no Maps API integration yet in the code, so just added an image for UI look.
 
 2. Delivery person:
-===================
+*****************************************************************************************************
 
 username/Email: Delivery@gmail.com
 password: BoondiLaddu2
